@@ -10,7 +10,7 @@ This project showcases an interactive **HR Analytics Dashboard** built using **P
 - Microsoft Excel (for dataset)
 
 ## 📂 Project Structure
-- `HR_Anlt.pbix` – Power BI report file
+- [`HR_Anlt.pbix`] – Power BI report file
 - `screenshots/` – Contains dashboard preview and data sample view
 - 'Cleaned_HR_Data_Analysis.csv/'
 
@@ -25,10 +25,10 @@ This project showcases an interactive **HR Analytics Dashboard** built using **P
 ## 📸 Dashboard Preview
 
 ### 🔹 Dashboard View
-![Dashboard](screenshots/dashboard_view.png)
+![Dashboard]()
 
 ### 🔹 Data Preview
-![Data Table](screenshots/data_view.png)
+![Data Table](Screenshot 2025-04-13 231619.png)
 
 ## 📁 Dataset Summary
 
