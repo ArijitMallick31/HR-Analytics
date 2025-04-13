@@ -12,7 +12,7 @@ This project showcases an interactive **HR Analytics Dashboard** built using **P
 ## 📂 Project Structure
 - `HR_Anlt.pbix` – Power BI report file
 - `screenshots/` – Contains dashboard preview and data sample view
-- *(You can also include the dataset file here if needed)*
+- 'Cleaned_HR_Data_Analysis.csv/'
 
 ## 💡 Key Features
 - Daily, weekly, and monthly employee presence tracking
@@ -31,10 +31,11 @@ This project showcases an interactive **HR Analytics Dashboard** built using **P
 ![Data Table](screenshots/data_view.png)
 
 ## 📁 Dataset Summary
-The dataset contains:
-- Employee attendance data (`P` = Present, `WFH`, `SL`)
-- Dates and employee codes
-- Preprocessed fields like `Month-Year` and `Day of Week`
+
+The dataset used is [`Cleaned_HR_Data_Analysis.csv`](./Cleaned_HR_Data_Analysis.csv), which contains:
+- Daily employee attendance (`P` = Present, `WFH`, `SL`)
+- Date-wise employee data
+- Categorized by employee name, date, code, and status
 
 ## 📌 Purpose
 This dashboard is designed to support HR professionals in:
